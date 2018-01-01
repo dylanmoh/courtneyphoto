@@ -1,1 +1,4 @@
-/wordpressabcd/*
+wordpress/*
+!wordpress/wp-content
+wordpress/wp-content/*
+!wordpress/wp-content/themes
