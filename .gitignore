@@ -1,1 +1,2 @@
-index.php
+wordpress/*
+!wordpress/wp-content/themes/*
